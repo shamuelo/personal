@@ -7,7 +7,7 @@ def trac(prodotto):
         print(key + "\t" + value)
     print("\n")
 
-oggi = [p.taralli_bianco, p.taralli_biologico]
+oggi = []
 
 for x in oggi:
     trac(x)
